@@ -1,0 +1,2 @@
+# Introduction
+This project analyses energy consumption and revenue data spanning residential, commercial, and industrial sectors. Our objectives include determining the impact of peak energy demandon revenues, identifying seasonal consumption patterns, and uncovering revenue driversacross customer segments. Through data cleansing, exploratory analysis, and predictivemodeling techniques such as linear regression and KMeans clustering, we aim to informstrategic decision-making and operational optimization within the utility sector.
