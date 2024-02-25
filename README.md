@@ -18,12 +18,9 @@ The project includes data cleansing, exploratory data analysis, and predictive m
 - Evaluating correlations between key variables.
 
 ## Predictive Analysis and Modeling
-1. **Impact of Peak Energy Demand on Revenue**:
-   - Employed linear regression to understand the relationship between peak energy usage and revenue.
-2. **Seasonal Energy Consumption Patterns**:
-   - Applied KMeans clustering to analyze energy consumption differences in summer and winter.
-3. **Revenue Drivers Across Customer Segments**:
-   - Used KMeans clustering to identify distinct revenue patterns in various customer segments.
+1. **Impact of Peak Energy Demand on Revenue**: Employed linear regression to understand the relationship between peak energy usage and revenue.
+2. **Seasonal Energy Consumption Patterns**: Applied KMeans clustering to analyze energy consumption differences in summer and winter.
+3. **Revenue Drivers Across Customer Segments**: Used KMeans clustering to identify distinct revenue patterns in various customer segments.
 
 ## Conclusion
 The analysis highlights the significance of effective demand management and the financial benefits of meeting peak energy demands. It underscores the need for customized energy strategies for different customer segments, particularly in the residential sector, where energy efficiency programs can lead to cost savings.
